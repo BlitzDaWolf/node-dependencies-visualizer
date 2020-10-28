@@ -1,5 +1,5 @@
 {
-  "name": "node-dependencies-node",
+  "name": "node-dependencies-visualizer",
   "version": "0.1.0",
   "private": true,
   "main": "public/electron.js",
